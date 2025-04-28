@@ -14,7 +14,7 @@ st.set_page_config(layout="wide")
 conn = sqlite3.connect('gym_tracker.db', check_same_thread=False)
 cursor = conn.cursor()
 
-# Function to fetch data
+# Function to fetch data (no longer shows table)
 def fetch_data(start_date, end_date):
     try:
         query = f"""
@@ -22,11 +22,11 @@ def fetch_data(start_date, end_date):
             WHERE DATE(check_in_timestamp) BETWEEN '{start_date}' AND '{end_date}'
         """
         df = pd.read_sql_query(query, conn)
-        st.dataframe(df, use_container_width=True)
         return df
     except Exception as e:
         st.error(f"Error: {e}")
         return None
+
 
 # Function to plot attendance trend (Line Chart)
 def plot_attendance_trend(start_date, end_date):
@@ -141,7 +141,10 @@ def record_manipulation():
     end_date = col4.date_input("End Date", date(2025, 4, 30), key="fetch_end")
 
     if st.button("Fetch Records"):
-        fetch_data(start_date, end_date)
+        df = fetch_data(start_date, end_date)
+        if df is not None:
+            st.dataframe(df, use_container_width=True)
+
 
     st.markdown("---")
     st.subheader("➤ Delete a Record")
