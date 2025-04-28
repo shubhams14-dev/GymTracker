@@ -66,9 +66,8 @@ Synthetic data was used, which was generated programmatically to simulate realis
 
 pip install -r requirements.txt
 
----
 
-## 🚀 Run the Application
+### 🚀 Run the Application
 
 From the project directory, run the following command:
 
