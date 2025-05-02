@@ -1,0 +1,51 @@
+record_id,member_name,membership_status,check_in_timestamp,class_attended,equipment_used,usage_duration,attendance_freq
+1,George Walker,Expired,2025-03-04 04:30:00,Football,"Dumbbells, Medicine Ball, Battle Ropes, Treadmill",19,Low
+2,George Clark,Active,2025-02-05 12:42:00,Zumba,"Treadmill, Battle Ropes, Stationary Bike, Pull-up Bar",45,Low
+3,Diana Anderson,Active,2024-12-07 03:59:00,HIIT,"Resistance Bands, Stationary Bike",89,Medium
+4,Nina Hall,Active,2025-01-25 12:34:00,Spinning,"Battle Ropes, Dumbbells, Kettlebell",57,Low
+5,Nina Clark,Active,2025-01-19 08:56:00,Swimming,"Dumbbells, Treadmill, Stationary Bike",49,High
+6,Wendy Johnson,Active,2024-12-08 12:02:00,Pilates,"Pull-up Bar, Medicine Ball, Dumbbells",42,Medium
+7,Rachel Hall,Active,2024-12-26 11:28:00,Pilates,Dumbbells,43,Medium
+8,Charlie Smith,Active,2025-04-18 16:32:00,CrossFit,"Dumbbells, Resistance Bands",21,Low
+9,Victor Walker,Expired,2024-11-11 03:31:00,CrossFit,Elliptical,112,Low
+10,Tina Walker,Expired,2025-02-08 04:37:00,HIIT,Kettlebell,36,Medium
+11,Zane Walker,Active,2025-03-25 02:33:00,Pilates,"Kettlebell, Pull-up Bar",105,Medium
+12,Ivan Smith,Active,2024-11-27 10:40:00,Pilates,"Kettlebell, Dumbbells",86,High
+13,Steve Johnson,Active,2024-11-14 17:17:00,,Rowing Machine,45,Low
+14,Kevin Brown,Active,2025-01-10 05:59:00,Swimming,"Battle Ropes, Rowing Machine, Treadmill, Medicine Ball",54,High
+15,Yara Johnson,Expired,2025-03-16 07:28:00,Kickboxing,Treadmill,82,Low
+16,Hannah Smith,Expired,2024-12-06 15:38:00,Yoga,Stationary Bike,46,Low
+17,Oscar Smith,Expired,2024-11-03 10:42:00,,"Treadmill, Stationary Bike",68,High
+18,Bob Clark,Active,2024-12-11 06:54:00,Spinning,"Medicine Ball, Stationary Bike, Kettlebell",32,Medium
+19,Laura Young,Expired,2025-01-30 17:12:00,,"Resistance Bands, Treadmill",71,Low
+20,Ivan Smith,Expired,2024-11-15 13:35:00,Kickboxing,"Dumbbells, Pull-up Bar",91,Low
+21,Yara Lewis,Expired,2024-12-28 02:40:00,Swimming,"Kettlebell, Rowing Machine, Treadmill",99,Medium
+22,Zane Hall,Active,2025-01-01 12:34:00,Spinning,Battle Ropes,91,Medium
+23,Xavier Taylor,Expired,2024-11-26 06:54:00,Spinning,Resistance Bands,74,Low
+24,Umar Young,Active,2024-12-10 01:39:00,,"Medicine Ball, Elliptical, Stationary Bike",79,High
+25,Alice Walker,Active,2024-12-12 13:34:00,Spinning,"Medicine Ball, Battle Ropes",42,Medium
+26,Paula Smith,Expired,2025-03-18 08:45:00,Spinning,"Battle Ropes, Resistance Bands",50,Medium
+27,Hannah Brown,Expired,2024-12-03 01:40:00,Pilates,"Pull-up Bar, Treadmill, Dumbbells, Rowing Machine",57,High
+28,Tina Young,Active,2024-12-11 15:15:00,,"Rowing Machine, Elliptical, Pull-up Bar, Treadmill",101,High
+29,Laura Young,Active,2025-02-26 04:07:00,Spinning,"Elliptical, Treadmill, Resistance Bands",46,High
+30,Hannah Lewis,Active,2025-01-30 17:36:00,Yoga,"Kettlebell, Elliptical, Rowing Machine",63,High
+31,Julia Anderson,Expired,2025-03-31 04:15:00,,"Dumbbells, Resistance Bands",120,Medium
+32,Oscar Walker,Expired,2025-01-31 10:29:00,Spinning,"Medicine Ball, Resistance Bands, Stationary Bike, Kettlebell",33,Medium
+33,Mike Johnson,Active,2024-11-26 06:33:00,Kickboxing,"Stationary Bike, Elliptical",113,Low
+34,Ivan Smith,Active,2024-11-10 02:02:00,Spinning,"Battle Ropes, Kettlebell, Treadmill",84,Medium
+35,Mike Brown,Expired,2025-02-23 17:48:00,Football,"Stationary Bike, Dumbbells, Medicine Ball, Rowing Machine",15,High
+36,Mike Brown,Expired,2024-11-22 17:16:00,Football,Rowing Machine,64,High
+37,Oscar Hall,Active,2025-03-03 17:59:00,,"Stationary Bike, Rowing Machine, Pull-up Bar",91,Medium
+38,Paula Hall,Active,2025-04-26 16:04:00,Zumba,Stationary Bike,53,Medium
+39,Umar Smith,Active,2024-12-20 12:18:00,CrossFit,"Resistance Bands, Rowing Machine, Stationary Bike",61,Medium
+40,Ivan Walker,Expired,2024-11-06 06:38:00,Zumba,"Elliptical, Treadmill",78,High
+41,Wendy Walker,Expired,2024-11-03 17:39:00,CrossFit,"Kettlebell, Medicine Ball",51,Low
+42,Xavier Taylor,Expired,2025-04-12 15:03:00,Kickboxing,"Medicine Ball, Resistance Bands, Elliptical",48,High
+43,Xavier Walker,Active,2025-02-27 00:27:00,Zumba,"Stationary Bike, Medicine Ball, Kettlebell",93,Medium
+44,Rachel Lewis,Expired,2025-01-28 00:42:00,Swimming,"Stationary Bike, Kettlebell",114,Low
+45,Steve Anderson,Expired,2025-03-08 13:06:00,CrossFit,"Stationary Bike, Pull-up Bar",65,Medium
+46,Xavier Hall,Expired,2024-11-05 00:40:00,Kickboxing,"Rowing Machine, Dumbbells, Resistance Bands, Medicine Ball",95,Medium
+47,Fiona Walker,Active,2025-02-04 17:12:00,HIIT,"Battle Ropes, Elliptical",76,Medium
+48,George Clark,Active,2025-03-24 14:45:00,,Resistance Bands,120,Low
+49,Hannah Johnson,Active,2025-04-22 09:56:00,Football,"Resistance Bands, Dumbbells, Pull-up Bar",85,Medium
+50,Diana Johnson,Expired,2025-04-19 06:59:00,,Battle Ropes,63,High
